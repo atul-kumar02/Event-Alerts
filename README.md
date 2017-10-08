@@ -15,6 +15,13 @@ Event-Alerts alerts about all the events and workshops organized in NITH by vari
 5. AJAX
 
 6. JS
+
 Developer:
 Atul Kumar
 Narendra Dodwaria
+
+Venue:
+NITH Audi
+
+Rank:
+2nd Runner-up
