@@ -4,7 +4,7 @@ Developed in CSEC-HACKATHON.
 Event-Alerts alerts about all the events and workshops organized in NITH by various clubs, to every registered user on our web application(Event-Alerts).
 
 #Stack Used
-1. HTML
+1. HTML5
 
 2. CSS
 
